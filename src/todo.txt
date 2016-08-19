@@ -1,2 +1,2 @@
 this is a BDD example by JBehave framework
-	- multiple senarios need to complete
+	- multiple senarios need to complete!
